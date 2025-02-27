@@ -1,0 +1,13 @@
+--2025-02-27 15:54:23--  https://calendar.google.com/calendar/ical/richard.green%40neo4j.com/public/basic.ics
+Resolving calendar.google.com (calendar.google.com)... 172.217.194.139, 172.217.194.102, 172.217.194.138, ...
+Connecting to calendar.google.com (calendar.google.com)|172.217.194.139|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/calendar]
+Saving to: ‘basic.ics.1’
+
+     0K .......... .......... .......... .......... ..........  250K
+    50K .......... .......... .......... .......... ..........  365K
+   100K .......... ...                                          602K=0.4s
+
+2025-02-27 15:54:24 (316 KB/s) - ‘basic.ics.1’ saved [116035]
+
